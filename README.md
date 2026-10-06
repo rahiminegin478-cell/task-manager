@@ -10,5 +10,5 @@ A simple task management application.
 
 
 
-The Task Manager project is actively developed for report feature.
+The Task Manager project is actively developed by the engineering team.
 
